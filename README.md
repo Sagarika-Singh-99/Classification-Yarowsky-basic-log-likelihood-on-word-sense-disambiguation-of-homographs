@@ -1,6 +1,5 @@
 ## Classification-Yarowsky-basic-log-likelihood-on-word-sense-disambiguation-of-homographs
-
-## Implementing Yarowsky’s basic log-likelihood decision list classifier on word sense dis- ambiguation of homographs. The goal is to classify the features (Bass and Sake) to their correct sense (fish or music, beer or cause).
+Implementing Yarowsky’s basic log-likelihood decision list classifier on word sense dis- ambiguation of homographs. The goal is to classify the features (Bass and Sake) to their correct sense (fish or music, beer or cause).
 Bass can mean either fish or music.
 Sake can mean either beer or cause.
 
