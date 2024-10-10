@@ -3,7 +3,7 @@ Implementing Yarowsky’s basic log-likelihood decision list classifier on word 
 Bass can mean either fish or music.
 Sake can mean either beer or cause.
 
-## Explanation of what we did conceptually and any implementation decisions we took:
+## Implementation steps:
 1. Prepared the text by converting them into lowercase, removed punctuation’s and tokenized it.
 2. Extracted feature from the context around the target word.
 (a) 5 words before an after target word
